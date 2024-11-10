@@ -8,6 +8,7 @@ public class Movimiento : MonoBehaviour
     void Start()
     {
         Debug.Log("Start Movimiento");
+	Debug.Log("Otra linea de ejemplo");
     }
 
     // Update is called once per frame
